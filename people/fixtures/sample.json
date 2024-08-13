@@ -1,0 +1,47 @@
+[
+    {
+      "model": "people.Person",
+      "pk": 1,
+      "fields": {
+        "name": "Endre Rien",
+        "views": 5,
+        "type": "Desktop"
+      }
+    },
+    {
+        "model": "people.Person",
+        "pk": 2,
+        "fields": {
+          "name": "Eric Bibiana",
+          "views": 10,
+          "type": "App"
+        }
+    },
+    {
+        "model": "people.Person",
+        "pk": 3,
+        "fields": {
+          "name": "Consus Giambattista",
+          "views": 3,
+          "type": "Desktop"
+        }
+    },
+    {
+        "model": "people.Person",
+        "pk": 4,
+        "fields": {
+          "name": "Liberata Anahera",
+          "views": 15,
+          "type": "App"
+        }
+    },
+    {
+        "model": "people.Person",
+        "pk": 5,
+        "fields": {
+          "name": "Nomusa Mangatjay",
+          "views": 5,
+          "type": "Desktop"
+        }
+    }
+  ]
